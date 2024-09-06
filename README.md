@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mayuresh-Bhombe
-- 🌱 I’m currently learning NOde.js, Express.js
+- 🌱 I’m currently learning Node.js, Express.js
 - 📫 How to reach me mayureshbhombe9@gmail.com
 
 
