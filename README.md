@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 💬 Ask me about **DSA**
-
 - 📫 How to reach me **mayureshbhombe9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
