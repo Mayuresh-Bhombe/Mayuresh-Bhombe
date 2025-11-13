@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on MeetEase
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **Big Data Technology**
 
 - 📫 How to reach me **mayureshbhombe9@gmail.com**
 
