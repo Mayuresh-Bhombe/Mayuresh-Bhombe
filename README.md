@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayuresh Bhombe</h1>
-<h3 align="center">A passionate Web Developer, Learning and expanding skills.</h3>
+<h3 align="center">Big Data Analyst, Learning and expanding skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayuresh-Bhombe&label=Profile%20views&color=0e75b6&style=flat" alt="Mayuresh-Bhombe" /> </p>
 
