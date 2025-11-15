@@ -31,9 +31,18 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="spark" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="spark" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+    <!-- Added Technologies -->
+    <a href="https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/apache/hadoop/main/hadoop-hdfs-project/hadoop-hdfs/src/site/resources/images/hdfs-logo.png" alt="hdfs" width="40" height="40"/> </a>
+    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/apache/hadoop/main/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/site/resources/images/mapreduce-logo.png" alt="mapreduce" width="40" height="40"/> </a>
+    <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
+    <a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hbase/apache_hbase-icon.svg" alt="hbase" width="40" height="40"/> </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
+    <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=9999&format=png" alt="sql" width="40" height="40"/> </a>
 </p>
+
 
 <details>
   <summary><h3>Github Stats ⚡</h3></summary>
